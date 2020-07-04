@@ -1,5 +1,5 @@
 
-#hyperparemeter
+#removing higher VIF and choosin right sets of hyperparameters using caret
 
 
 library(caret)
